@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="Diconfirmardatos">30dp</dimen>
+    <dimen name="Dinombre">25dp</dimen>
+    <dimen name="Difechadenacimiento">25dp</dimen>
+    <dimen name="Ditelefono">25dp</dimen>
+    <dimen name="Diemail">25dp</dimen>
+    <dimen name="Didescripcion">25dp</dimen>
+
+</resources>
